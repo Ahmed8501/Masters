@@ -1,1 +1,3 @@
+!pip install transformers datasets sentence-transformers openai faiss-cpu evaluate scikit-learn
+!pip install tiktoken langchain rich
 
